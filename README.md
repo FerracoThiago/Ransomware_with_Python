@@ -4,7 +4,7 @@ python encrypter.py
 
 Com isso já é possível abrir o arquivo e ver que ele se encontra criptografado e com o nome trocado.  
 
--Encrypted.png-  
+![Alt text](./Encrypted.png "Optional title") 
 
 ### Para descriptografar  
 
@@ -13,4 +13,4 @@ python decrypter.py
 
 Após isso podemos ver que já está legível nosso arquivo txt.  
 
--teste.png-
+![Alt text](./teste.png "Optional title")
